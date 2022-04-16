@@ -6,4 +6,4 @@ Open powershell and change the directory to this repository.
 Enter `docker-compose up` to build the docker image.
 If there is an existing container, open and run it on a browser. The link should look like `http://localhost:5000/`.
 
-If there isn't, create the container from the image using `docker run -it -p 5000 <image name>`.
+If there isn't, create the container from the image using `docker run -it -p 5000 isaacjay/assignment`.
